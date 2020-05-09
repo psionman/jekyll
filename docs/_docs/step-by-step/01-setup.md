@@ -52,8 +52,9 @@ is completely optional but it's a great habit to get into. You can learn more
 about using Git by reading through the
 [Git Handbook](https://guides.github.com/introduction/git-handbook/).
 
-Let's add your first file. Create `index.html` in the root with the following
-content (first, remove the file `index.markdown` which was automatically created in your root directory):
+Before you start, remove the file `index.markdown` which was automatically created in your root directory.
+Now let's add your first file. Create `index.html` in the root with the following
+content:
 
 ```html
 <!doctype html>
