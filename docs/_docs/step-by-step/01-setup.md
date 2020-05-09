@@ -53,7 +53,7 @@ about using Git by reading through the
 [Git Handbook](https://guides.github.com/introduction/git-handbook/).
 
 Let's add your first file. Create `index.html` in the root with the following
-content:
+content (first, remove the file `index.markdown` which was automatically created in your root directory):
 
 ```html
 <!doctype html>
